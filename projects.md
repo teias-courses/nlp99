@@ -13,10 +13,14 @@ Sorted alphabetically
 
 Kaveh Eskandari, Mahdi Zakizadeh [[Report](https://github.com/teias-courses/nlp99/raw/gh-pages/projects/final_project_report_eskandari_zakizadeh.pdf)]
 
+---
+
 ## Probing Persian Language Models
 ![](https://raw.githubusercontent.com/teias-courses/nlp99/gh-pages/projects/lm_probe.png)
 
 Mahrokh Mirani, Faezeh Labbaf [[Report](https://github.com/teias-courses/nlp99/raw/gh-pages/projects/final_project_report_labbaf_mirani.pdf)]
+
+---
 
 ## Weakly Supervised Question Answering on SQuAD 2 
 ![](https://raw.githubusercontent.com/teias-courses/nlp99/gh-pages/projects/squad2.png)
