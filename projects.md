@@ -30,5 +30,3 @@ Mahrokh Mirani, Faezeh Labbaf [[Report](https://github.com/teias-courses/nlp99/r
 Mohammad Hosein Moti Birjandi [[Report](https://github.com/teias-courses/nlp99/raw/gh-pages/projects/final_project_report_moti_birjandi.pdf)]
 
 ---
-
-.
