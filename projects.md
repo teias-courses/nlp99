@@ -8,6 +8,8 @@ show_sidebar: false
 # Projects
 Sorted alphabetically
 
+---
+
 ## Analysis of Dependency Pruning on the effectiveness of Transformer models
 ![](https://raw.githubusercontent.com/teias-courses/nlp99/gh-pages/projects/dep_prune.png)
 
